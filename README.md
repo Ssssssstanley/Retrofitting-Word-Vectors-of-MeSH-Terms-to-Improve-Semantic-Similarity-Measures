@@ -1,4 +1,11 @@
 # Retrofitting-Word-Vectors-of-MeSH-Terms-to-Improve-Semantic-Similarity-Measures
+Zhiguo Yu, MS, Trevor Cohen, MBChB, MD, PhD, Todd R. Johnson, PhD,  PhD, Elmer Bernstam, MD, MSE
+
+The University of Texas School of Biomedical Informatics at Houston, Houston, TX 
+
+Byron C. Wallace
+
+University of Texas at Austin School of Information, Austin, TX
 
 Estimation of the semantic relatedness between biomedical concepts has utility for many informatics applications. Automated methods fall into two broad categories: methods based on distributional statistics drawn from text corpora, and methods based on the structure of existing knowledge resources. In the former case, taxonomic structure is disregarded. In the latter, semantically relevant empirical information is not considered. 
 
